@@ -10,36 +10,44 @@
 </h1>
 
 <p align="center">A responsive solution to the Blog Preview Card challenge on Frontend Mentor.</p>
-
+<br/>
 <p align="center">
-  <a href="YOUR_LIVE_SITE_URL">🌐 Live Demo</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_FRONTEND_MENTOR_SOLUTION_URL">💡 Frontend Mentor Solution</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">🎯 Challenge</a>
+  <img src="https://img.shields.io/badge/PROFILE-ARATI%20D'SA-blue?style=for-the-badge&labelColor=343a40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DIFFICULTY-NEWBIE-orange?style=for-the-badge&labelColor=343a40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00d97e?style=for-the-badge&labelColor=343a40" />
 </p>
+
+
+<h3 align="center">
+  🌐 <a href="YOUR_LIVE_SITE_URL">Live Demo</a>
+  &nbsp;|&nbsp;
+  📂 <a href="YOUR_REPOSITORY_URL">Source Code</a>
+  &nbsp;|&nbsp;
+  🎯 <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">Challenge</a>
+</h3>
+<br/>
 
 <h1 align="left">
   📸 Layout Overview
 </h1>
 
-<blockquote>
+<table align="center">
+  <tr>
+    <th align="center">💻 Desktop View</th>
+    <th align="center">📱 Mobile View</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshot-desktop.png" alt="Desktop Preview" width="500">
+    </td>
+    <td align="center">
+      <img src="./screenshot-mobile.png" alt="Mobile Preview" width="250">
+    </td>
+  </tr>
+</table>
 
-<h3>💻 Desktop View</h3>
-
-<img src="./screenshot-desktop.png" alt="Desktop Preview" width="850">
-
-</blockquote>
-
-<br>
-
-<blockquote>
-
-<h3>📱 Mobile View</h3>
-
-<img src="./screenshot-mobile.png" alt="Mobile Preview" width="300">
-
-</blockquote>
 ---
 
 ## 🎯 The Challenge
@@ -54,6 +62,13 @@ Users should be able to:
 
 ## 🚀 Built With
 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Flexbox-Modern_Layout-563D7C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Responsive-Design-00C853?style=for-the-badge">
+</p>
+
 - Semantic HTML5 Markup
 - CSS Custom Properties
 - Flexbox
@@ -61,6 +76,18 @@ Users should be able to:
 - Responsive Design
 - CSS `clamp()`
 
+---
+
+<h2 align="left">🛠️ Tools Used</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
 ## 💡 What I Learned
 
 This project gave me valuable practice in translating a design specification into a responsive and visually accurate webpage.
@@ -77,36 +104,7 @@ This helped me better understand how viewport units influence responsive text sc
 }
 ```
 
-### Key Takeaways
 
-- Semantic HTML structure
-- Flexbox alignment and spacing
-- CSS custom properties
-- Hover states and interactive elements
-- Creating reusable and maintainable CSS
-
-> This project also reinforced the importance of attention to detail when matching spacing, typography, and visual hierarchy to a design specification.
-
----
-
-## 🚧 Biggest Challenge
-
-One of the more interesting challenges was matching the spacing, typography, and overall visual hierarchy of the original design while keeping the layout responsive across different screen sizes.
-
-Fine-tuning margins, shadows, font sizes, and responsive behavior helped me appreciate the importance of attention to detail in frontend development.
-
----
-
-## 🤖 AI Collaboration
-
-During this project, I used **ChatGPT** as a learning and debugging assistant to:
-
-- Clarify CSS concepts
-- Understand responsive typography
-- Troubleshoot layout issues
-- Review code quality and best practices
-
-> The final implementation, styling decisions, testing, and code integration were completed and verified by me.
 
 ---
 
@@ -114,9 +112,21 @@ During this project, I used **ChatGPT** as a learning and debugging assistant to
 
 **Arati D'sa**
 
-- GitHub - [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Frontend Mentor - [@YOUR_USERNAME](https://www.frontendmentor.io/profile/YOUR_USERNAME)
+<h2 align="center">🌐 Connect With Me</h2>
 
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-@YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-@YOUR_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.frontendmentor.io/profile/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Frontend_Mentor-@YOUR_USERNAME-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white">
+  </a>
+</p>
 ---
 
 ## 🙏 Acknowledgments
