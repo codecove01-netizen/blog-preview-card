@@ -10,14 +10,6 @@
 </h1>
 
 <p align="center">A responsive solution to the Blog Preview Card challenge on Frontend Mentor.</p>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/PROFILE-ARATI%20D'SA-blue?style=for-the-badge&labelColor=343a40" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DIFFICULTY-NEWBIE-orange?style=for-the-badge&labelColor=343a40" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00d97e?style=for-the-badge&labelColor=343a40" />
-</p>
 
 
 <h3 align="center">
@@ -27,7 +19,16 @@
   &nbsp;|&nbsp;
   🎯 <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">Challenge</a>
 </h3>
+
 <br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-ARATI%20D'SA-blue?style=for-the-badge&labelColor=343a40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DIFFICULTY-NEWBIE-orange?style=for-the-badge&labelColor=343a40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00d97e?style=for-the-badge&labelColor=343a40" />
+</p>
+
 
 <h1 align="left">
   📸 Layout Overview
@@ -49,17 +50,6 @@
 </table>
 
 ---
-
-## 🎯 The Challenge
-
-Users should be able to:
-
-- View the optimal layout for the interface depending on their device's screen size
-- See hover states for interactive elements
-- The font sizes in this project are slightly smaller in the mobile layout. Find a way to reduce font size for smaller screens without using media queries.
-
----
-
 ## 🚀 Built With
 
 <p>
@@ -104,29 +94,35 @@ This helped me better understand how viewport units influence responsive text sc
 }
 ```
 
+---
+
+## 🎯 The Challenge
+
+Users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+- See hover states for interactive elements
+- The font sizes in this project are slightly smaller in the mobile layout. Find a way to reduce font size for smaller screens without using media queries.
 
 
 ---
 
-## 👩‍💻 Author
+<h2 align="left">🌐 Connect With Me</h2>
 
-**Arati D'sa**
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-@YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-CodeCove-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
+&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-@YOUR_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-AratiDsa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+&nbsp;&nbsp;
   <a href="https://www.frontendmentor.io/profile/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Frontend_Mentor-@YOUR_USERNAME-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white">
+    <img src="https://img.shields.io/badge/Frontend_Mentor-CodeCove-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white">
   </a>
 </p>
+
 ---
 
 ## 🙏 Acknowledgments
