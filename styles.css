@@ -60,6 +60,12 @@ body{
     margin-top:20px;
 }
 
+main{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
 /* ===================================
    BLOG CARD
 =================================== */
@@ -95,19 +101,26 @@ body{
     font-weight: var(--fw-500);
 }
 
-.card-title{
-    margin-top:15px;
-    font-size: clamp(1.2rem,1.56vw,2rem);
-    text-decoration:none;
+.card-title {
+    margin-top:5px;
 }
 
-.card-title:hover{
+.card-title a{
+    font-size: clamp(1.2rem,1.56vw,2rem);
+    text-decoration:none;
+    color:var(--gray-950);
+}
+
+.card-title a:hover{
     color:var(--yellow);
     cursor:pointer;
     transition: color .2s ease;
 }
+.card-title a:focus{
+    outline:none;
+}
 .card-description{
-    margin-top:15px;
+    margin-top:10px;
     font-size: clamp(0.88rem,1vw,1.3rem);
     font-weight: var(--fw-500);
     line-height: 1.5;
@@ -121,7 +134,7 @@ body{
     display:flex;
     flex-direction: row;
     justify-content: flex-start;
-    margin-top:25px;
+    margin-top:20px;
     gap:10px;
 }
 .author-image{
@@ -144,6 +157,7 @@ footer{
     justify-content: center;
     align-items: center;
     margin-top:15px;
+    font-size: clamp(0.75rem,1vw,1rem);
 }
 footer a{
     text-decoration: none;
@@ -165,18 +179,17 @@ footer a:hover{
     }
     .card-tag{
     padding:5px 10px 5px 10px;
-
     }
     .card-date{
     margin-top:14px;
     }
     .card-title{
-    margin-top:15px;
+    margin-top:10px;
     }
     .card-description{
-    margin-top:20px;
+    margin-top:15px;
     }
     .author{
-    margin-top:23px;
+    margin-top:20px;
     }
 }
