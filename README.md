@@ -15,7 +15,7 @@
 <h3 align="center">
   🌐 <a href="https://design-blog-preview-card.netlify.app/">Live Demo</a>
   &nbsp;|&nbsp;
-  📂 <a href="YOUR_REPOSITORY_URL">Source Code</a>
+  📂 <a href="https://github.com/codecove01-netizen/blog-preview-card">Source Code</a>
   &nbsp;|&nbsp;
   🎯 <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">Challenge</a>
 </h3>
@@ -118,7 +118,7 @@ Users should be able to:
     <img src="https://img.shields.io/badge/LinkedIn-AratiDsa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 &nbsp;&nbsp;
-  <a href="https://www.frontendmentor.io/profile/YOUR_USERNAME">
+  <a href="https://www.frontendmentor.io/profile/codecove01-netizen">
     <img src="https://img.shields.io/badge/Frontend_Mentor-CodeCove-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white">
   </a>
 </p>
