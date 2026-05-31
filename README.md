@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-  🌐 <a href="https://design-blog-preview-card.netlify.app/" target="_blank">Live Demo</a>
+  🌐 <a href="https://design-blog-preview-card.netlify.app/">Live Demo</a>
   &nbsp;|&nbsp;
   📂 <a href="YOUR_REPOSITORY_URL">Source Code</a>
   &nbsp;|&nbsp;
