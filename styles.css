@@ -103,7 +103,7 @@ main{
 }
 
 .card-title{
-    margin-top:5px;
+    margin-top:0.31rem;
 }
 
 .card-title .card-link{
@@ -118,14 +118,14 @@ main{
 }
 
 .card-title .card-link:focus-visible{
-    outline: 3px solid hsl(47, 66%, 35%);
-    outline-offset: 4px;
-    border-radius: 4px;
+    outline: 0.19rem solid hsl(47, 66%, 35%);
+    outline-offset: 0.25rem;
+    border-radius: 0.25rem;
     color:hsl(47, 66%, 35%);;
 }
 
 .card-description{
-    margin-top:10px;
+    margin-top:0.63rem;
     font-size: clamp(0.88rem,1vw,1.3rem);
     font-weight: var(--fw-500);
     line-height: 1.5;
@@ -175,8 +175,8 @@ footer a:hover{
 }
 footer a:focus-visible{
     color:var(--gray-950);
-    outline: 2px solid var(--gray-950);
-    outline-offset:2px;
+    outline: 0.13rem solid var(--gray-950);
+    outline-offset:0.13rem;
 }
 /* ===================================
    DESKTOP STYLES
