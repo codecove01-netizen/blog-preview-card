@@ -41,7 +41,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./screenshot-desktop.png" alt="Desktop Preview" width="500">
+      <img src="<img width="1920" height="893" alt="screencapture-design-blog-preview-card-netlify-app-2026-05-31-14_37_48" src="https://github.com/user-attachments/assets/ee8b1656-8d7d-4b41-b686-c28585c9fc09" />
+" alt="Desktop Preview" width="500">
     </td>
     <td align="center">
       <img src="./screenshot-mobile.png" alt="Mobile Preview" width="250">
