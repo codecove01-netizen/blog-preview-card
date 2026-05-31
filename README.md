@@ -34,21 +34,19 @@
   📸 Layout Overview
 </h1>
 
-<table align="center">
-  <tr>
-    <th align="center">💻 Desktop View</th>
-    <th align="center">📱 Mobile View</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="<img width="1920" height="893" alt="screencapture-design-blog-preview-card-netlify-app-2026-05-31-14_37_48" src="https://github.com/user-attachments/assets/ee8b1656-8d7d-4b41-b686-c28585c9fc09" />
-" alt="Desktop Preview" width="500">
-    </td>
-    <td align="center">
-      <img src="./screenshot-mobile.png" alt="Mobile Preview" width="250">
-    </td>
-  </tr>
-</table>
+<h3 align="center">💻 Desktop View</h3>
+
+<p align="center">
+  <img src="./screenshotDesktop.png" alt="Desktop Preview" width="900">
+</p>
+
+<br>
+
+<h3 align="center">📱 Mobile View</h3>
+
+<p align="center">
+  <img src="./screenshotMobile.png" alt="Mobile Preview" width="250">
+</p>
 
 ---
 ## 🚀 Built With
