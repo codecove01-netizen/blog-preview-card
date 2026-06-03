@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-  🌐 <a href="https://design-blog-preview-card.netlify.app/">Live Demo</a>
+  🌐 <a href="https://codecove01-netizen.github.io/blog-preview-card/">Live Demo</a>
   &nbsp;|&nbsp;
   📂 <a href="https://github.com/codecove01-netizen/blog-preview-card">Source Code</a>
   &nbsp;|&nbsp;
